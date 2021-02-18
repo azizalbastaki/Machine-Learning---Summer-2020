@@ -1,0 +1,8 @@
+Emirates Price Predictor
+
+Calculates ticket prices from Dubai to any airport in the world on an Emirates Boeing 777-300ER economy class seat (Emirates only flew 777s at the time of making this)
+
+Please run ''collectdata.py'' before running ''stage2.py''
+
+Make sure you have your own API key from RapidAPI before running ''stage2.py''
+The program is going to grab files from 2021-05-01, if you are viewing this after that date, please change line 124 and/or 131 at ``collectdata.py``
