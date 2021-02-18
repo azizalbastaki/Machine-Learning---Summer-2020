@@ -5,4 +5,4 @@ Calculates ticket prices from Dubai to any airport in the world on an Emirates B
 Please run ''collectdata.py'' before running ''stage2.py''
 
 Make sure you have your own API key from RapidAPI before running ''stage2.py''
-The program is going to grab files from 2021-05-01, if you are viewing this after that date, please change line 124 and/or 131 at ``collectdata.py``
+The program is going to grab data from 2021-05-01, if you are viewing this after that date, please change line 124 and/or 131 at ``collectdata.py``
