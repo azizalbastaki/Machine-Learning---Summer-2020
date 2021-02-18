@@ -1,0 +1,8 @@
+COVID-19 Detection kit
+
+The machine learning model doesn't save so it creates an entire new model everytime you run GUI.py
+hence it will take time before the form shows up.
+
+Just fill in the form and submit, results can be innaccurate due to the unknown nature of the virus at the time.
+
+Data from www.kaggle.com
